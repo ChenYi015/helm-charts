@@ -3,6 +3,16 @@ entries:
   example-chart:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2024-03-06T12:45:14.212266783Z"
+    description: A Helm chart for Kubernetes
+    digest: fdf5c04dcf40d33326c2e4082af5dcbb8f0b1d8e9aba9eddd5a1354438171be7
+    name: example-chart
+    type: application
+    urls:
+    - https://github.com/ChenYi015/helm-charts/releases/download/example-chart-0.3.0/example-chart-0.3.0.tgz
+    version: 0.3.0
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2024-03-06T12:25:51.422365331Z"
     description: A Helm chart for Kubernetes
     digest: e52a34539ba7897c39de1ad962159359a62e9080f9165bbf2f4986dc32d6bb86
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://github.com/ChenYi015/helm-charts/releases/download/example-chart-0.1.0/example-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2024-03-06T12:25:51.422377293Z"
+generated: "2024-03-06T12:45:14.212278735Z"
